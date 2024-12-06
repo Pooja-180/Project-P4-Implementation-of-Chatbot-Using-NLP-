@@ -1,5 +1,5 @@
 # Project-P4-Implementation-of-Chatbot-Using-NLP-
-Here’s a well-structured description for your GitHub repository to explain the implementation of a chatbot using NLP techniques:
+ Implementation of a chatbot using NLP techniques:
 
 ---
 
